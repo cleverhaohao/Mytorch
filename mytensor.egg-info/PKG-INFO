@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mytensor
+Version: 0.0.1
+Author: hqh
+Author-email: hanqinghao@stu.pku.edu.cn
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8
